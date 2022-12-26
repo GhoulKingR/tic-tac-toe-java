@@ -1,11 +1,3 @@
-<!-- 
-OUTLINE
-* Introduction
-* Requirements
-* How to run
-* License
- -->
-
 # Introduction
 
 Welcome to the Tic-Tac-Toe game! This project was created as an introduction to GUI programming in Java using the Swing library. The game allows two players to play against each other, either on the same computer.
