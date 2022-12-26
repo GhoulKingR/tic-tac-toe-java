@@ -11,6 +11,15 @@ Once you have these tools installed, you can download the source code for the pr
 
 I hope you have fun playing the game!
 
+# Running the application
+
+`TicTacToe.jar` is the main application's executable. To run the executable, run the application with this command:
+```bash
+$ java -jar TicTacToe.jar
+```
+
+You need Java Runtime Environment (JRE) installed on your system, for the application to work.
+
 # License
 
 MIT License
